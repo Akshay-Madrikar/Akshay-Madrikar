@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 It's ya boy Slowb0y!
 
-<!--
-**Akshay-Madrikar/Akshay-Madrikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>( function() {</h3>
 
-Here are some ideas to get you started:
+const about = {
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      - 🔭 I’m currently working on Nodejs, MongoDB, Expressjs, Reactjs, Redux
+      - 🌱 I’m currently learning TypeScript, Microservices, PostgreSQL
+      - 👯 I’m looking to collaborate on javascript projects
+      - 🤔 I’m looking for help with UI/UX designs and architecture
+      - 💬 Ask me about nothing :P
+      - 📫 How to reach me: https://www.linkedin.com/in/slowb0y
+      - ⚡ Fun fact: Though I'm a software developer, I'm alot into listening rap music and find me following that industry!
+} 
+
+<h3>}) (); </h3>
+
+<h3>about;  // Uncaught ReferenceError</h3>
